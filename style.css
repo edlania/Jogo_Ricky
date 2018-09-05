@@ -1,0 +1,59 @@
+
+#personagens{
+	height: 304px;
+	width: 100%;
+
+
+}
+
+#game_over {
+    opacity: 0;
+    height: 0;
+    top: 40px;
+    font-weight: bold;
+    position: relative;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+
+#vitória{
+    opacity: 0;
+    height: 0;
+    top: 40px;
+    font-weight: bold;
+    position: relative;
+    font-size: 40px;
+    color: green;
+    text-align: center;
+}
+
+#personagens img{
+    width: 100%;
+}
+
+#acertos {
+    color: green;
+}
+
+#erros{
+    color: red;
+}
+
+#mortyy{
+    vertical-align: middle;
+}
+#rickyy{
+    vertical-align: middle;
+}
+#mae{
+    vertical-align: middle;
+}
+#pai{
+    vertical-align: middle;
+}
+#irma{
+    vertical-align: middle;
+}
+
+#exercicio_um:hover { background-color: lightgoldenrodyellow}
